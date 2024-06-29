@@ -5,4 +5,4 @@ https://xxmdd.github.io/m3u8-player-h5/
 <pre>Mixed Content: The page at 'https' was loaded over HTTPS,
 but requested an insecure XMLHttpRequest endpoint 'http'.
 This request has been blocked; the content must be served over HTTPS.</pre><br>
-暂时解决方法就是，你打包下载到本地打开
+暂时解决方法就是，你打包下载到本地打开，或者是直接下载<a href="https://raw.githubusercontent.com/xxmdd/m3u8-player-h5/main/index-local.html download="index-local.html" style="color: blue;" >index-local.html</a>到本地直接打开。<br>
